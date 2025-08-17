@@ -1,10 +1,14 @@
 # 📄 Computer Vision Document Processor
 ## *Streamline Document Workflows with Intelligent Text Extraction & Analysis*
 
+![Document Processor](assets/images/hero-processor.svg)
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-processor.streamlit.app)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue.svg)](https://opencv.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> **🔴 LIVE DEMO**: [http://localhost:8504](http://localhost:8504) | **📄 OCR processing** | **🎯 95% accuracy rate**
 
 ---
 
