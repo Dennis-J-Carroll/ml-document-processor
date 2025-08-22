@@ -7,9 +7,6 @@
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue.svg)](https://opencv.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-> **🔴 LIVE DEMO**: [http://localhost:8504](http://localhost:8504) | **📄 OCR processing** | **🎯 95% accuracy rate**
-
 ---
 
 ## 💼 **BUSINESS VALUE**
@@ -27,18 +24,15 @@
 
 ---
 
-## 🌐 **LIVE DEMO & PREVIEW**
+## **PREVIEW**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 **Try the Demo**
-**[→ Launch Live Application](https://document-processor.streamlit.app)**  
+**[→ Launch Live Application](https://ml-document-doc-proc.streamlit.app/)**  
 *Upload sample documents for instant processing*
-
-**[📹 View Processing Demo](https://youtube.com/demo-link)**  
-*See document analysis in action*
 
 </td>
 <td width="50%">
